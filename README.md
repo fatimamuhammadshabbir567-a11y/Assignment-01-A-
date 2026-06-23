@@ -22,6 +22,15 @@ This project is a static landing page developed using **HTML5** and **CSS3**. It
 - No JavaScript used
 
 ---
+## 📁 Project Structure
+
+```
+Assignment-01/
+│
+├── index.html
+├── style.css
+└── assets/
+```
 
 ---
 
